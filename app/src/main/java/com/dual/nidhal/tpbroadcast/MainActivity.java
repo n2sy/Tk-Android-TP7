@@ -8,7 +8,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
 
-    private MyReceiver mReceiver = new MyReceiver();
+    //private MyReceiver mReceiver = new MyReceiver();
 
     private ComponentName mReceiverComponentName;
     private PackageManager mPackageManager;
