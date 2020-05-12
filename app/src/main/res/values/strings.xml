@@ -1,0 +1,10 @@
+<resources>
+
+<string name="app_name">TP - Broadcast</string>
+<string name="power_connected">En Charge !</string>
+<string name="power_disconnected">Charge déconnectée!</string>
+<string name="custom_broadcast_toast">Custom Broadcast Received</string>
+<string name="send_custom_broadcast">Send Custom Broadcast</string>
+<string name="receiver_on">Receiver On</string>
+<string name="receiver_off">Receiver Off</string>
+</resources>
